@@ -12,3 +12,7 @@ Task 5 boosted my data analysis skills, refining techniques like cleaning and ex
 Feel free to explore the repository, provide feedback, or connect with me for further discussions on data science, internship experiences, or any related topics. Let's learn and grow together!
 
 www.linkedin.com/in/varshitha-nalliboina-428170226
+
+
+# Data set link 
+https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
